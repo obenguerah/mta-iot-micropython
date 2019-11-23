@@ -1,1 +1,1 @@
-Hello World, first Git, from VSC all bis
+Hello World, first Git, from VSC all bisd
