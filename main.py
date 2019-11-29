@@ -1,6 +1,6 @@
 import time
 import machine
-print("Hello from Main v2")
+print("hello world")
 led = machine.Pin(27, machine.Pin.OUT)
 
 #while False:
